@@ -1,0 +1,20 @@
+{
+  "name": "challenge-submission-api",
+  "version": "1.0.0",
+  "description": "A simplified Challenge Submission API built with Express.js",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["express", "api", "challenge", "submission"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

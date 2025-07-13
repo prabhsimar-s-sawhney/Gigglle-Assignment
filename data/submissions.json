@@ -1,0 +1,38 @@
+[
+  {
+    "id": "submission-1752407220060-kaxwurka9",
+    "videoUrl": "https://example.com/my-video.mp4",
+    "challengeId": "challenge-1",
+    "stickers": [
+      "dance",
+      "fun"
+    ],
+    "status": "pending",
+    "createdAt": "2025-07-13T11:47:00.060Z",
+    "duration": 5
+  },
+  {
+    "id": "submission-1752408520839-j5u9bxxx9",
+    "videoUrl": "https://drive.google.com/file/d/1ZfosBhP_nFvI4jY-q21BmWGMw0NAYFKv/view?usp=sharing",
+    "challengeId": "challenge-1",
+    "stickers": [
+      "dance",
+      "fun"
+    ],
+    "status": "pending",
+    "createdAt": "2025-07-13T12:08:40.841Z",
+    "duration": 4
+  },
+  {
+    "id": "submission-1752408610639-p79wjph84",
+    "videoUrl": "https://drive.google.com/file/d/1ZfosBhP_nFvI4jY-q21BmWGMw0NAYFKv/view?usp=sharing",
+    "challengeId": "challenge-1",
+    "stickers": [
+      "dance",
+      "fun"
+    ],
+    "status": "pending",
+    "createdAt": "2025-07-13T12:10:10.639Z",
+    "duration": 4
+  }
+]
