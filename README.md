@@ -83,6 +83,11 @@ Content-Type: application/json
   "challengeId": "challenge-1",
   "stickers": ["dance", "fun"]
 }
+{
+  "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+  "challengeId": "challenge-1",
+  "stickers": ["dance", "fun"]
+}
 ```
 
 **Success Response:**
